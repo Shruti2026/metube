@@ -1,0 +1,36 @@
+
+.video-info-grid
+{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    column-gap: 5px;
+}
+.grid-whole
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 20px;
+    column-gap: 10px;
+}
+.song-pic
+{
+    width: 100%;
+    border-radius: 15px;
+}
+.t-series
+{
+    width: 100%;
+    border-radius: 50px;
+}
+.video-title
+{
+    font-weight: 500;
+    font-size: medium;
+    color: black;
+}
+div
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: rgb(96,96,96);
+}
